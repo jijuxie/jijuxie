@@ -17,7 +17,8 @@
 ### 🍏 Contribution
 [![jijuxie's GitHub | Stats](https://stats.quira.sh/jijuxie/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jijuxie)
 ![Profile Views](https://komarev.com/ghpvc/?username=jijuxie)
-
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+### Now time
 
 
 ### 🙌 Relation Ship
