@@ -1,7 +1,7 @@
 # 👋 This is @jijuxie!
 
 
- software developer / Blockchain Engineer /   man born in 1994 🙋‍♂️ / ESFP / CHINESE
+ software developer / Blockchain Engineer /  
 
 ### ⚒ Skills
 🥪 **Full Stack**  / 🍊 **Smart contract** / 🍑 **block chain**
@@ -9,10 +9,10 @@
 
 
 ### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,c,nodejs,php,react,next,vue,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,fastapi,electron,threejs,apple,nestjs,ps,pinia,svg,swift,ubuntu,unity,windows,wordpress&theme=light)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,figma,aws,azure,cloudflare,vercel,bash,discord,gmail,instagram,notion,vscode,phpstorm,stackoverflow,twitter,vim&theme=light)](https://skillicons.dev)
 
 ### 🍏 Contribution
 [![jijuxie's GitHub | Stats](https://stats.quira.sh/jijuxie/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jijuxie)
